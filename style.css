@@ -1,0 +1,21 @@
+#info
+{
+    background-color: #000000;
+    color: #FFFFFF;
+    position: absolute;
+}
+
+#main-canvas
+{
+    left: 0px;
+    position: absolute;
+    top: 0px;
+}
+
+.key
+{
+    border-style: solid;
+    border-width: 1px;
+    margin: 1px;
+    padding: 1px;
+}
